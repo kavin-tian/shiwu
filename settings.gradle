@@ -1,0 +1,3 @@
+rootProject.name='shiwu'
+include ':app'
+include ':test'
